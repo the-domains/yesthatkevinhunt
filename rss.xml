@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[YesThatKevinHunt]]></title>
         <description><![CDATA[YesThatKevinHunt]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/yesthatkevinhunt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 16:54:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Dec 2015 16:57:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yesthatkevinhunt/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined525fa88f-dfa2-4acb-81c6-0961a458c45f/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/354214eb6fc5a10ef8ee6c4767f039f0b4ea382e.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/yesthatkevinhunt/46b74cea-dd62-4c6d-af84-37834d2b0f05/index.html</link>
+            <guid isPermaLink="false">46b74cea-dd62-4c6d-af84-37834d2b0f05</guid>
+            <pubDate>Tue, 22 Dec 2015 16:56:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>YesThatKevinHunt:Writing / Marketing / Creative</p>]]></description>
+            <link>https://thegrid.ai/yesthatkevinhunt/525fa88f-dfa2-4acb-81c6-0961a458c45f/index.html</link>
             <guid isPermaLink="false">525fa88f-dfa2-4acb-81c6-0961a458c45f</guid>
             <pubDate>Tue, 22 Dec 2015 16:53:47 GMT</pubDate>
         </item>
