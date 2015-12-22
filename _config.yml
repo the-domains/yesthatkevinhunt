@@ -1,7 +1,7 @@
 name: YesThatKevinHunt
 favicon: null
-layout_spectrum: 0.9125440225470811
-typography_spectrum: 0.9793593373615295
+layout_spectrum: 0.66262
+typography_spectrum: 0.42849
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#67708f'
     - '#6e3a2d'
   brandStrength: 0.375
-  lightness: 0.3896709540858865
-  saturation: 0.3263352147769183
-  rhythmicContrast: 0.03556736069731414
+  lightness: 0.5
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
