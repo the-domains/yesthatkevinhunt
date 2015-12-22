@@ -1,0 +1,28 @@
+name: YesThatKevinHunt
+favicon: null
+layout_spectrum: 0.9125440225470811
+typography_spectrum: 0.9793593373615295
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.005766405025497079
+  lightness: 0.3896709540858865
+  saturation: 0.3263352147769183
+  rhythmicContrast: 0.03556736069731414
+purpose: []
