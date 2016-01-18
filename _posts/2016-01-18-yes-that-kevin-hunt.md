@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://re.vu/KevinHunt'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - creative
   - write
@@ -17,8 +17,8 @@ keywords:
   - artisans
   - perfectionist
 description: "Resumes are boring. Here's the whole story. "
-datePublished: '2016-01-18T18:05:10.016Z'
-dateModified: '2016-01-18T18:05:06.291Z'
+datePublished: '2016-01-18T18:06:24.793Z'
+dateModified: '2016-01-18T18:06:12.440Z'
 author: []
 related:
   - score: 0.5166469812
