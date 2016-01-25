@@ -1,6 +1,6 @@
 name: YesThatKevinHunt
 favicon: null
-layout_spectrum: 0.24821
+layout_spectrum: 0.48958
 typography_spectrum: 0.75055
 title: Yes That Kevin Hunt
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.3125
   lightness: 0.6875
   saturation: 0.3125
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.25
 purpose: []
