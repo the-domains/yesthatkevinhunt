@@ -17,8 +17,8 @@ keywords:
   - artisans
   - perfectionist
 description: "Resumes are boring. Here's the whole story. "
-datePublished: '2016-01-25T20:14:54.521Z'
-dateModified: '2016-01-25T19:38:01.274Z'
+datePublished: '2016-01-25T20:57:47.907Z'
+dateModified: '2016-01-25T20:57:05.733Z'
 author: []
 related:
   - score: 0.5166469812
@@ -42,4 +42,9 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+# [Yes _That _Kevin Hunt][0]
+
+## Resumes are boring. Here's the whole story.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c178107-7d13-4c89-a7ff-7bf20ee34b2b.jpg)
+
+[0]: http://www.yesthatkevinhunt.com/
