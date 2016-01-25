@@ -17,7 +17,7 @@ keywords:
   - artisans
   - perfectionist
 description: "Resumes are boring. Here's the whole story. "
-datePublished: '2016-01-25T20:14:54.414Z'
+datePublished: '2016-01-25T20:14:54.521Z'
 dateModified: '2016-01-25T19:38:01.274Z'
 author: []
 related:
