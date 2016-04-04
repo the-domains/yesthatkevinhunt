@@ -17,8 +17,8 @@ keywords:
   - artisans
   - perfectionist
 description: ''
-datePublished: '2016-02-09T18:16:21.022Z'
-dateModified: '2016-02-09T18:16:10.156Z'
+datePublished: '2016-04-04T16:18:38.111Z'
+dateModified: '2016-04-04T16:16:28.711Z'
 author: []
 related:
   - score: 0.5166469812
@@ -45,6 +45,6 @@ _type: MediaObject
 # [Yes _That _Kevin Hunt][0]
 
 ## Resumes are boring. Here's the whole story.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/796fee89c5acd753e6b36a4365afea59929f003b.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/112c6ab5d099d87075ffe6c2aa079fd59ce12d26.jpg)
 
 [0]: http://www.yesthatkevinhunt.com/
